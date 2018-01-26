@@ -1,0 +1,11 @@
+/.metadata/
+/.recommenders/
+/*/target
+/*/*/target
+/*/.settings
+/*/*/.settings
+/*/.project
+/*/.classpath
+/*/*/.classpath
+/*/bin
+/.sonarlint
